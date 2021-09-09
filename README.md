@@ -56,3 +56,7 @@ Links sobre tópicos mencionados durante a aula:
 Aulas ministradas pelo [Rodrigo Peleias](https://github.com/rpeleias). Obrigado, Rodrigo.
 
 [Repositório de Referência](https://github.com/rpeleias/personapi_digital_innovation_one)
+
+---
+
+Demo do projeto disponível no Heroku: https://peopleapi-dio-fma.herokuapp.com/api/v1/people
